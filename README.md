@@ -8,7 +8,7 @@ This directory is for book 《The Linux Kernel Module Programming Guide》 by Ji
 
 # Book Notes
 for the summary and notes for those books, you can check via:
-* Github repo: https://github.com/BarretRen/KernelAndDriver.git
+* Github repo: https://github.com/BarretRen/ProgrammingNotes.git
 * Gitee repo: https://gitee.com/barretren/ProgrammingNotes.git
 * online doc: https://www.yuque.com/barret/giv6pv
 
